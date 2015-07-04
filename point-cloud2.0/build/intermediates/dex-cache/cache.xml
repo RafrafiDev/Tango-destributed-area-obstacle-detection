@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rafrafi/work-tango/tango-c/point-cloud/app/libs/quickhull3d.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3e28caec1ef0b40d653c22705d06098432f8daef">
+        <dex dex="/home/rafrafi/work-tango/tango-c/point-cloud/app/build/intermediates/pre-dexed/debug/quickhull3d-159a2ca2abb107d129a8be07db0571bcaae26b32.jar" />
+    </item>
+    <item
+        jar="/home/rafrafi/work-tango/tango-c/point-cloud/app/libs/Jama-1.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10027ce1ef383e5c8b1d4f82eaa0dc8587647149">
+        <dex dex="/home/rafrafi/work-tango/tango-c/point-cloud/app/build/intermediates/pre-dexed/debug/Jama-1.0.2-37dd3cca742b57cbf6690ceff614e2cf36e0e95d.jar" />
+    </item>
+    <item
+        jar="/home/rafrafi/work-tango/tango-c/point-cloud/app/libs/javaml-0.1.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0257c25af0f9cbba9df72392f77079effc48888e">
+        <dex dex="/home/rafrafi/work-tango/tango-c/point-cloud/app/build/intermediates/pre-dexed/debug/javaml-0.1.7-548e614563dbcebdcb035cca767646c8e2ee3b88.jar" />
+    </item>
+    <item
+        jar="/home/rafrafi/work-tango/tango-c/point-cloud/app/libs/commons-math-1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3955b41fe9f3c0469bd873331940674812d09bd2">
+        <dex dex="/home/rafrafi/work-tango/tango-c/point-cloud/app/build/intermediates/pre-dexed/debug/commons-math-1.2-b831f82b6ddb2923cb7994c5a7c93d918ec071a2.jar" />
+    </item>
+    <item
+        jar="/home/rafrafi/work-tango/tango-c/point-cloud/app/libs/libsvm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="114ad9ff1965fb141eb8e7aa2eca05878641f43c">
+        <dex dex="/home/rafrafi/work-tango/tango-c/point-cloud/app/build/intermediates/pre-dexed/debug/libsvm-df82ee19d77e919f8caf5d232b7bb7a84c9a6ee7.jar" />
+    </item>
+    <item
+        jar="/home/rafrafi/work-tango/tango-c/point-cloud/app/libs/weka.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2ce18b1f0b77bd2e4598fdcb5a671c8fad689689">
+        <dex dex="/home/rafrafi/work-tango/tango-c/point-cloud/app/build/intermediates/pre-dexed/debug/weka-7df9f382e67362eceb068db12bde2cb176bc4463.jar" />
+    </item>
+    <item
+        jar="/home/rafrafi/work-tango/tango-c/point-cloud/app/libs/ajt-2.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="54308ed43db470b5f73ded3778d91c2964caf05d">
+        <dex dex="/home/rafrafi/work-tango/tango-c/point-cloud/app/build/intermediates/pre-dexed/debug/ajt-2.9-3047acad389bdd7717eb5201eee312ae8a041553.jar" />
+    </item>
+
+</items>

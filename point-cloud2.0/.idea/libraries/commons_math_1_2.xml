@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-math-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/commons-math-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <LIBRARY_FILE />
+    <SOURCES />
+  </library>
+</component>
